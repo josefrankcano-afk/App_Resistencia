@@ -9,3 +9,6 @@ dependencies = [
     "plotly",
     "scipy"
 ]
+
+[tool.poetry]
+package-mode = false

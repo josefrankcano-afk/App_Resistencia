@@ -3,3 +3,4 @@ numpy
 pandas
 plotly>=5.0
 scipy
+# Dependencias del laboratorio ferroviario
